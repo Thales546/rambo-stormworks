@@ -5,5 +5,6 @@ Go to [Wiki](https://github.com/Thales546/rambo-stormworks/wiki) for documentati
 - Get [R.A.M.B.O.](https://steamcommunity.com/id/thales_/myworkshopfiles/?appid=573090)
 - Join [Discord](https://discord.gg/DSMWtpKgYH)
 - Create [Issues](https://github.com/Thales546/rambo-stormworks/issues) for feedback and suggestions
+- [Installation Instructions](https://github.com/Thales546/rambo-stormworks/wiki/Basic-Setup-for-the-Mod)
 
 <img alt="mod" src="https://github.com/user-attachments/assets/3551edff-6a02-4627-889a-2f4659054151" />
