@@ -1,4 +1,4 @@
-Go to Wiki for documentation and Issues for reporting bugs or suggestions.
+Go to [Wiki](https://github.com/Thales546/rambo-stormworks/wiki) for documentation and Issues for reporting bugs or suggestions.
 
 **R.A.M.B.O.** (**R**ealistic **A**erodynamics, **M**ass & **B**uoyancy **O**verhaul) is a mod for **Stormworks: Build and Rescue** which improves hydrodynamics and aerodynamics, rebalances component mass and thrust, adds new paintable surfaces and more.
 
